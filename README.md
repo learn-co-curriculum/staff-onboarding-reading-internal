@@ -12,4 +12,4 @@
 - **Get inspired!** Read more about how Flatiron School is changing lives on [Quora](http://www.quora.com/search?q=flatiron+school) (specifically see "Reviews of: Flatiron School" to read about the experience of our immersive students). There is also a [motivation wall](https://flatiron.atlassian.net/wiki/display/PC/Motivation+Wall) in the Pre-College space on our wiki where we've shared some kind words sent in by our partners and customers. For even more motivation, watch the [videos](http://go.flatironschool.com/kode-with-karlie-winners) from the 2015 Kode with Karlie scholarship winners to hear why they want to learn how to code; also check out how our 2015 Code for Good scholarship winners want to [code for good](http://go.flatironschool.com/dosomething).
 
 
-<a href='https://learn.co/lessons/staff-onboarding-reading-internal' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/staff-onboarding-reading-internal' title='Here are some internal readings (~1-3 hours)'>Here are some internal readings (~1-3 hours)</a> on Learn.co and start learning to code for free.</p>
